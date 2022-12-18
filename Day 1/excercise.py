@@ -1,0 +1,1 @@
+print("your name is "+input("tell me your name: ") + " "+input("tell me your last name: "))
